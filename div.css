@@ -1,0 +1,37 @@
+h1{
+    font-family: cursive;
+    color: #bd3768;
+    border:2px solid green;
+    background-color: lightblue;
+    border: 30px;
+    text-align: center;
+}
+p{
+    font-family: "The Nautigal", cursive;
+    font-size: 60px;
+    color: aqua;
+}
+.para{
+    font-family: sans-serif;
+    color: #bd3768;
+}
+.container{
+    border: 2px solid black;
+    width: 400px;
+    width: 400px;
+    background-color: rgb(211,240,230);
+}
+.container:hover{
+    cursor: pointer;
+    background-color: rgb(244,174,174);
+}
+.img.img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+.title,
+.content{
+    text-align: center;
+}
